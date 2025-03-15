@@ -7,8 +7,17 @@ This repository is a curated collection of my best projects, showcasing my exper
 
 You'll find something valuable whether you're here to explore, collaborate, or learn!  
 
- **A curated collection of my best projects in data analytics** 
+ **"For individual projects, check out my other repositories:**
 
 - **[Excel Projects](https://github.com/yahyakhan98/Excel-Projects.git)**: Data analysis and visualization using Excel.  
 - **[Power BI Projects](https://github.com/yahyakhan98/Power-BI-Dashbords.git)**: Interactive dashboards and reports.  
-- **[SQL Projects](https://github.com/yahyakhan98/Sql-Projects.git)**: Database design, optimization, and querying.  
+- **[SQL Projects](https://github.com/yahyakhan98/Sql-Projects.git)**: Database design, optimization, and querying.
+
+  
+📬 Connect With Me
+
+GitHub: yahyakhan98
+
+LinkedIn: www.linkedin.com/in/yahya-qureshi012
+
+Email: yahyaqureshi012@gamil.com
