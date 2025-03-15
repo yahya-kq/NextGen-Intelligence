@@ -16,7 +16,7 @@ You'll find something valuable whether you're here to explore, collaborate, or l
   
 📬 Connect With Me
 
-GitHub: yahyakhan98
+GitHub: https://github.com/yahyakhan98
 
 LinkedIn: www.linkedin.com/in/yahya-qureshi012
 
