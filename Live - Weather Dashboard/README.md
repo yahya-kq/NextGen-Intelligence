@@ -13,7 +13,7 @@ This repository features a dynamic Power BI dashboard delivering real-time weath
 7. [👨‍💻 Author](#author)  
 
 
-## 🌍 Project Overview
+## [🌍 Project Overview]
 A real-time weather dashboard built with Power BI, providing live weather conditions, forecasts, and air quality metrics for five major Pakistani cities: Islamabad, Gilgit, Khyber, Karachi, and Lahore.
 
 **📅 Start Date:** June 22, 2025
@@ -39,9 +39,8 @@ A real-time weather dashboard built with Power BI, providing live weather condit
 
 
 ## 🛠️ How to Use
-1. 📥 **Clone this repo**: `git clone [repository URL]`
-2. 💻 **Open**: `Weather_Dashboard.pbix` in Power BI Desktop
-3. 🔄 **Refresh**: Internet required for live data loading
+1. 💻 **Open**: `Weather_Dashboard.pbix` in Power BI Desktop
+2. 🔄 **Refresh**: Internet required for live data loading
 4. 🔍 **Explore**: Use slicers to view different cities and forecasts
 
 
