@@ -1,6 +1,6 @@
 # 🌦️ Power BI Live Weather Dashboard for Pakistan
 
-This repository features a dynamic Power BI dashboard delivering real-time weather insights and a 7-day forecast for major cities in Pakistan. It demonstrates practical skills in API integration, Power Query transformations, data modeling, and interactive visual design.
+This repository features a dynamic Power BI dashboard delivering real-time weather insights and a 3-day forecast for major cities in Pakistan. It demonstrates practical skills in API integration, Power Query transformations, data modeling, and interactive visual design.
 
 
 ## 📌 Table of Contents
