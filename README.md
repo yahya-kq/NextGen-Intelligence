@@ -7,7 +7,7 @@ This repository is a curated collection of my best projects, showcasing my exper
 
 You'll find something valuable whether you're here to explore, collaborate, or learn!  
 
- **"For individual projects, check out my other repositories:**
+ **For individual projects, check out my other repositories:**
 
 - **[Excel Projects](https://github.com/yahyakhan98/Excel-Projects.git)**: Data analysis and visualization using Excel.  
 - **[Power BI Projects](https://github.com/yahyakhan98/Power-BI-Dashbords.git)**: Interactive dashboards and reports.  
