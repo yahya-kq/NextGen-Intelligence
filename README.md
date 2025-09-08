@@ -1,6 +1,6 @@
 # NextGen-Intelligence  
 
-**A portfolio of projects at the intersection of data, business intelligence, AI/ML, and automation—built to deliver actionable business and financial insights.** 
+**A portfolio of projects at the intersection of data, business intelligence, AI/ML, and automation built to deliver actionable business and financial insights.** 
   
 ## 🌟 **About This Repository**  
 This repository is my flagship hub, showcasing selected projects where **data, intelligence, and automation converge**. It reflects my work in **business intelligence, data analytics, financial analysis, and AI/ML solutions** aimed at driving smarter decision-making.  
