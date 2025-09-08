@@ -72,3 +72,12 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 
 ```bash
 git clone https://github.com/yourusername/powerbi-weather-dashboard.git
+
+👨‍💻 Author
+
+Khan
+🌐 Portfolio: https://yahya-kq.odoo.com/
+
+⭐If this project helped you, consider giving it a star!  
+✨ Your support means a lot and keeps me motivated
+
