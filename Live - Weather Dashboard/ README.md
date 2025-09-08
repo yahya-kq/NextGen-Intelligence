@@ -2,7 +2,6 @@
 
 A real-time weather dashboard built with Power BI, delivering live weather insights and forecasts for major cities across Pakistan.
 
----
 
 ## 📋 Table of Contents
 - [🌍 Project Overview](#-project-overview)  
@@ -13,7 +12,6 @@ A real-time weather dashboard built with Power BI, delivering live weather insig
 - [🚀 Future Enhancements](#-future-enhancements)  
 - [👨‍💻 Author](#-author)  
 
----
 
 ## 🌍 Project Overview
 A comprehensive Power BI dashboard providing real-time weather conditions, forecasts, and air quality metrics for Pakistan's major cities. Demonstrates advanced Power BI capabilities including API integration, Power Query transformations, and interactive visualization design.  
@@ -67,6 +65,6 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 
 
 ## 👨‍💻 Author
-**Khan**  
+**Yahya Khan**  
 
 🌐 Portfolio: [https://yahya-kq.odoo.com/](https://yahya-kq.odoo.com/)  
