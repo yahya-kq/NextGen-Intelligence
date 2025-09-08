@@ -2,7 +2,7 @@
 
 A real-time weather dashboard built with Power BI, delivering live weather insights and forecasts for major cities across Pakistan.
 
-
+---
 
 ## 📋 Table of Contents
 - [🌍 Project Overview](#-project-overview)  
@@ -13,7 +13,7 @@ A real-time weather dashboard built with Power BI, delivering live weather insig
 - [🚀 Future Enhancements](#-future-enhancements)  
 - [👨‍💻 Author](#-author)  
 
-
+---
 
 ## 🌍 Project Overview
 A comprehensive Power BI dashboard providing real-time weather conditions, forecasts, and air quality metrics for Pakistan's major cities. Demonstrates advanced Power BI capabilities including API integration, Power Query transformations, and interactive visualization design.  
@@ -21,15 +21,12 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 📅 **Start Date:** June 22, 2025  
 🎯 **Purpose:** Real-time weather monitoring and forecasting  
 
-
-
 ## ✨ Key Features
 - 🌡️ **Live Weather Metrics:** Temperature, humidity, wind speed, UV index  
 - 📆 **7-Day Forecast:** Extended weather predictions with sunrise/sunset times  
 - 🌬️ **Air Quality Index:** Real-time AQI monitoring with color-coded indicators  
 - 🎛️ **Interactive Controls:** City selection slicers and date filtering  
 - 📱 **Responsive Design:** Clean, user-friendly interface  
-
 
 
 ## 🔗 Data Sources
@@ -48,7 +45,6 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 - **Authentication:** Secured API key  
 
 
-
 ## 📊 Dashboard Structure
 ### Core Components
 - 🎛️ **Control Panel:** City selector and date picker slicers  
@@ -63,21 +59,14 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 - **Relationships:** Star schema design for optimal performance  
 
 
-
 ## 🛠️ How to Use
 1. 📥 **Download:** Clone repository and open `Weather_Dashboard.pbix`  
 2. 🔑 **Configure:** Add your weather API key in Power Query settings  
 3. 🔄 **Refresh:** Click refresh to load live data (internet required)  
 4. 🔍 **Explore:** Use slicers to filter by city and navigate forecasts  
 
-```bash
-git clone https://github.com/yourusername/powerbi-weather-dashboard.git
 
-👨‍💻 Author
+## 👨‍💻 Author
+**Khan**  
 
-Khan
-🌐 Portfolio: https://yahya-kq.odoo.com/
-
-⭐If this project helped you, consider giving it a star!  
-✨ Your support means a lot and keeps me motivated
-
+🌐 Portfolio: [https://yahya-kq.odoo.com/](https://yahya-kq.odoo.com/)  
