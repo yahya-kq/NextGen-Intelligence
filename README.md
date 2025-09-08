@@ -1,5 +1,5 @@
 # NextGen-Intelligence  
-# 🚀 NextGen-Intelligence   
+
 **A portfolio of projects at the intersection of data, business intelligence, AI/ML, and automation—built to deliver actionable business and financial insights.** 
   
 ## 🌟 **About This Repository**  
